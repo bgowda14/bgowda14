@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bharath Gowda
 
-🎓 Junior @ ASU | Computer Science Major + Applied Business Data Analytics Certificate  
+🎓 Junior @ ASU majoring in Computer Science, with a certificate in Applied Business Data Analytics  
 💻 Passionate about systems, security, and building things that solve real problems  
 🛠️ DIY enthusiast with a knack for Arduino, automation, and creative side-projects  
 📽️ Thriller movies fan | 📍Tempe, AZ US |
@@ -21,19 +21,19 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 - 🎥 **DIY Arduino Security Camera**  
-  Motion-triggered system that captures video and sends email alerts using Python + Arduino.
+  Engineered a motion-detection system using Arduino + Python that captures live footage and instantly emails video alerts. Built for real-time monitoring using low-cost hardware.
 
 - ✈️ **Urban Air Mobility Pathfinding (Hackathon Winner)**  
-  Built an innovative algorithm for air traffic control in drone-based urban transport — won “Best Innovation & Technology.”
+  Designed and implemented a pathfinding algorithm for drone air traffic in smart cities. Won “Best Innovation & Technology” and ₹1000 prize at Honeywell Urban Mobility Hackathon.
 
-- 🔐 **Solar Panel Recommender Web App**  
-  A full ASP.NET web service that calculates optimal panel configurations for energy efficiency.
+- 🔆 **Solar Panel Recommender Web App**  
+  Developed a full-stack ASP.NET service that calculates optimal solar panel configurations based on user needs. Streamlines decision-making for residential sustainability.
 
-- 🤖 **Hand Recognition with OpenCV**  
-  Gesture-based interaction using Python + computer vision to interpret basic hand signs.
+- ✋ **Hand Recognition with OpenCV**  
+  Built a gesture recognition system using OpenCV that identifies static hand signs in real-time. Applied computer vision for intuitive human-computer interaction.
 
 ---
 
