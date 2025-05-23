@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bharath Gowda
 
 🎓 Junior @ ASU | Computer Science Major + Buisiness Data Analytics Certificate
+
 💻 Passionate about systems, security, and building things that solve real problems  
 🛠️ DIY enthusiast with a knack for Arduino, automation, and creative side-projects  
 📽️ Thriller movies fan | 📍Tempe, AZ 🇺🇸 |
