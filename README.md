@@ -27,7 +27,7 @@
   Engineered a motion-detection system using Arduino + Python that captures live footage and instantly emails video alerts. Built for real-time monitoring using low-cost hardware.
 
 - ✈️ **Urban Air Mobility Pathfinding (Hackathon Winner)**  
-  Designed and implemented a pathfinding algorithm for drone air traffic in smart cities. Won “Best Innovation & Technology” and ₹1000 prize at Honeywell Urban Mobility Hackathon.
+  Designed and implemented a pathfinding algorithm for drone air traffic in smart cities. Won “Best Innovation & Technology” and $1000 prize at Honeywell Urban Mobility Hackathon.
 
 - 🔆 **Solar Panel Recommender Web App**  
   Developed a full-stack ASP.NET service that calculates optimal solar panel configurations based on user needs. Streamlines decision-making for residential sustainability.
