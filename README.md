@@ -39,5 +39,5 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/bharath-gowda)  
+[LinkedIn](https://www.linkedin.com/in/bharath-shivashankar-gowda/)  
 📧 **Email**: bgowda1412@gmail.com
