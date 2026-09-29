@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bharath Gowda
 
-🎓 Senior @ ASU majoring in Computer Science, with a certificate in Applied Business Data Analytics  
+🎓 ASU graduate — Computer Science, with a certificate in Applied Business Data Analytics  
 💻 Passionate about systems, security, and building things that solve real problems  
 🛠️ DIY enthusiast with a knack for Arduino, automation, and creative side-projects  
 📽️ Thriller movies fan | 📍Tempe, AZ US |
@@ -23,11 +23,15 @@
 
 ## 🚀 Featured Projects
 
+- 📞 **AI Phone Assistant**  
+  Personal call-screening system: a React Native (Expo) app + FastAPI backend + Supabase Postgres, deployed serverless on AWS Lambda. Uses Twilio Programmable Voice to handle live calls and OpenAI structured outputs to classify callers in real time — deciding whether to message, screen, or transfer to a live line — with API-key auth, Twilio signature verification, and a Twilio fallback for reliability.  
+  [Repo →](https://github.com/bgowda14/personal-ai-phone-assistant)
+
 - 🎥 **DIY Arduino Security Camera**  
   Engineered a motion-detection system using Arduino + Python that captures live footage and instantly emails video alerts. Built for real-time monitoring using low-cost hardware.
 
 - ✈️ **Urban Air Mobility Pathfinding (Hackathon Winner)**  
-  Designed and implemented a pathfinding algorithm for drone air traffic in smart cities. Won “Best Innovation & Technology” and $1000 prize at Honeywell Urban Mobility Hackathon.
+  Designed and implemented a pathfinding algorithm for drone air traffic in smart cities. Won "Best Innovation & Technology" and $1000 prize at Honeywell Urban Mobility Hackathon.
 
 - 🔆 **Solar Panel Recommender Web App**  
   Developed a full-stack ASP.NET service that calculates optimal solar panel configurations based on user needs. Streamlines decision-making for residential sustainability.
